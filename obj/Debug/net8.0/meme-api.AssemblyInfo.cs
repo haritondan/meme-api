@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("meme-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dca80dbd1e56d52b1f425a9991fed3d77acc713")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0129e6c8d81dcd0400ba24463f6f5d5e2c489bb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("meme-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("meme-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
